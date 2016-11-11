@@ -1,0 +1,8 @@
+body {background: grey; margin: 0; padding: 0;} 
+a {color: #2b2bf6;}           
+#container {width: 800px; margin: auto; padding: 0; background: #dddddd;}           
+#header {width: 800px; 	height: 130px; 	margin: 0; padding: 0; border: 0; background: #8DB6CD;}
+#header1 {width: 800px; 	height: 100px; 	margin: 0; padding: 0; border: 0; background: #8DB6CD;}           
+#sidebar {width: 200px; height: 480px; 	margin: 0; padding: 0; border: 0; float: left; background: #A2B5CD;}           
+#content {width: 600px; height: 480px; 	margin: 0; padding: 0; border: 0; float: left; background: 	#9AC0CD;}           
+#footer {width: 800px; 	height: 70px; 	margin: 0; padding: 0; border: 0; float: left; background: #8DB6CD; clear:both;}                            
